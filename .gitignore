@@ -1,0 +1,4 @@
+new_env/
+train.csv
+test.csv"node_modules/" 
+".env" 
